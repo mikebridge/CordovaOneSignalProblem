@@ -1,0 +1,1 @@
+{"version":3,"file":"logger.js","sourceRoot":"","sources":["../src/www/logger.ts"],"names":[],"mappings":";;AAAA,oCAAsC;AAEzB,QAAA,KAAK,GAAG,YAAY,CAAC,gCAAgC,CAAC,CAAC","sourcesContent":["import * as debugFactory from \"debug\";\r\n\r\nexport const debug = debugFactory(`@iotize/device-com-nfc.cordova`);"]}

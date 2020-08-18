@@ -1,0 +1,1 @@
+{"version":3,"file":"index.js","sourceRoot":"","sources":["../../src/www/tap-ndef/index.ts"],"names":[],"mappings":";;;;;AACA,0CAAqC","sourcesContent":["export * from './definitions';\r\nexport * from './parse-ndef-message';"]}

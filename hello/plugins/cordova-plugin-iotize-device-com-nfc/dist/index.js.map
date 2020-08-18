@@ -1,0 +1,1 @@
+{"version":3,"file":"index.js","sourceRoot":"","sources":["../src/www/index.ts"],"names":[],"mappings":";;;;;AAAA,wCAAmC;AAEnC,8BAAyB;AACzB,gCAA2B","sourcesContent":["export * from './nfc-com-protocol';\r\nexport * from './cordova-interface';\r\nexport * from './errors';\r\nexport * from './tap-ndef';"]}
